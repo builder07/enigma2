@@ -1,0 +1,3 @@
+#define ENIGMA2_COMMIT_DATE "2014-01-21"
+#define ENIGMA2_BRANCH "(no branch)"
+#define ENIGMA2_REV "0896836"
