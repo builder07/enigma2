@@ -1,0 +1,2052 @@
+
+#: ../data/menu.xml
+msgid "About"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Automatic scan"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Common Interface"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Convert ext3 filesystem to ext4"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Deep standby"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Factory reset"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Filesystem check"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Harddisk"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Information"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Initialization"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Input devices"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Keyboard"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Language"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Main menu"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Manual scan"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Network"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Parental control"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Plugins"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Recording paths"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Restart"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Restart enigma"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Service"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Service searching"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Setup"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Shutdown"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Sleep timer"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "SoftCam / CI"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Software update"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Standby"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Standby / restart"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "System"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Timer"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "Tuner configuration"
+msgstr ""
+
+#: ../data/menu.xml
+msgid "VCR scart"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "12V output"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Action on long powerbutton press"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Action on short powerbutton press"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Activate network settings"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Activate the configured network settings."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Add more details to the crash log"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Allow quit movieplayer with exit"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Allow subtitle language to equal audio language"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Allow subtitles for hearing impaired"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Alpha"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Alternative numbering mode"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Alternative services tuner priority"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Audio language selection 1"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Audio language selection 2"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Audio language selection 3"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Audio language selection 4"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Auto language selection"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Automatically start timeshift after"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Automatically turn on external subtitles"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Background delete option"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Background delete speed"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Behavior of 'pause' when paused"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Behavior of 0 key in PiP-mode"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Behavior when a movie is started"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Behavior when a movie is stopped"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Behavior when a movie reaches the end"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Brightness"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "By default, SNR will be shown in dB (when supported by the tuner). This setting forces SNR to be shown as a percentage instead."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Can be used for different fps between external subtitles and video."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Center DVB subtitles"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Change bouquets in quickzap"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Channel"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Choose which tuner to configure."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Close PiP on exit"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Composition of the recording filenames"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configuration mode"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure an additional delay to improve external subtitle synchronisation."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure an additional delay to improve subtitle synchronisation."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure for how long the infobar will remain visible after activation."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure for how many minutes finished events should remain visible in the EPG. Useful when you need information about an event which has just finished, or has been delayed."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure how recording filenames are constructed."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure if and how service type icons will be shown in the channel selection list."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure if service picons will be shown in the channel selection list."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure on which devices the background delete option should be used."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the DiSEqC mode for this LNB."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the IP address."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the behavior of the 'pause' key when movie playback is already paused."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the behavior when movie playback is manually stopped."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the behavior when movie playback is started."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the behavior when reaching the end of a movie, during movie playback."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the border width of the subtitles. The dark border makes the subtitles easier to read on a light background."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the brightness level of the front panel display during standby."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the brightness level of the front panel display."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the color of the external subtitles, alternative (normal in white, italic in yellow, bold in cyan, underscore in green), white or yellow."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the color of the teletext subtitles."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the contrast level of the front panel display."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the cursor behaviour in the channel selection list. When opening the channel selection list you can keep on the current service or already select up/down and you are able to revert the B+/B- buttons."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the duration in minutes for the screensaver."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the first audio language (highest priority)."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the first subtitle language (highest priority)."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the font size of the subtitles."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the fourth audio language."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the fourth subtitle language."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the function of a long press on the power button."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the function of a short press on the power button."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the function of the '0' button do when PIP is active."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the gateway."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the hard disk drive to go to standby after the specified idle time."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the horizontal alignment of the subtitles."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the initial fast forward speed. When you press the fast forward button, winding will start at this speed."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the initial rewind speed. When you press the rewind button, winding will start at this speed."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the latitude of your location."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the longitude of your location."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the minimum amount of disk space to be available for recordings. When the amount of space drops below this value, deleted items will be removed from the trash can."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the nameserver (DNS)."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the netmask."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the number of days after which items are automaticaly removed from the trash can."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the number of days old timers are kept before they are automatically removed from the timer list."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the offline decoding delay in milliseconds. The configured delay is observed at each control word parity change."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the possible fast forward speeds."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the possible rewind speeds."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the primary EPG language."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the second audio language."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the second subtitle language."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the secondary EPG language."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the skip time interval for the '1'/'3' buttons."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the skip time interval for the '4'/'6' buttons."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the skip time interval for the '7'/'9' buttons."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the slow motion speeds."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the speed of the background deletion process. Lower speed will consume less hard disk drive performance."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the subtitle delay when timing information is not available."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the third audio language."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the third subtitle language."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the transparency of the black background of graphical DVB subtitles."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the tuner mode."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the type of status indication icons shown in the movielist."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the vertical position of the subtitles, measured from the bottom of the screen."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure the way in which the receiver changes channels."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure where completed timers show up in the timer list."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure whether (and for how long) a second infobar will be shown when OK is pressed twice. The second infobar contains additional information about the current channel."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure whether or not an icon should be shown when your motorized dish is moving."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure which access level to use for the configuration menu. Expert level gives access to all items."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure which tuner type will be preferred, when the same service is available on different types of tuners."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Configure which tuner will be preferred, when more than one tuner is available. If set to 'auto' the system will give priority to the tuner having the lowest number of channels/satellites."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Contrast"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Create more detailed crash log"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Custom skip time for '1'/'3' buttons"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Custom skip time for '4'/'6' buttons"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Custom skip time for '7'/'9' buttons"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Customize"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Customize channel list cursor behavior"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "DVB subtitle black transparency"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Delay for external subtitles"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Descramble http streams"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "DiSEqC"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Disable background scanning"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Disk space to reserve for recordings (in GB)"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Display message before playing next movie"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Display setup"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "EPG language selection 1"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "EPG language selection 2"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "EPG settings"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Enable EIT EPG"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Enable MHW EPG"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Enable Netmed EPG"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Enable ViaSat EPG"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Enable bouquet selection in multi-EPG"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Enable freesat EPG"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Enable multiple bouquets"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Enable teletext caching"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "External subtitle color"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Fast forward speeds"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Finetune"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Gateway"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Hard disk setup"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Hard disk standby after"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Hide CI messages"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Hide channel list in radio mode"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Hide number markers"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Hide zap errors"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "IP address"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "If the text is too long to be displayed on the front panel, it will be repeated (number of times):"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Include AIT in http streams"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Include ECM in http streams"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Include EIT in http streams"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Info bar timeout"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Initial fast forward speed"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Initial rewind speed"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Keyboard map"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Keyboard setup"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Latitude"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Limit character set for recording filenames"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Limit the characters that can be used in recording filenames to (7 bit) ascii. This ensures compatibility with operating systems or file systems with limited character sets."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Longitude"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Maintain old EPG data for"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Margin after recording (minutes)"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Margin before recording (minutes)"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Modulator"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Multi-EPG bouquet selection"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Nameserver"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Netmask"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Network setup"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "OSD settings"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Offline decode delay (ms)"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Position of completed timers in timerlist"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Power On Display"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Prefer AC3 track"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Prefer audio track stored by service"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Prefer graphical DVB subtitles"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Prefer subtitles for hearing impaired"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Prefer subtitles stored by service"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Preferred tuner"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "RF output"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Record"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Recordings always have priority"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Remove completed timers after (days)"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Remove items from trash can after (days)"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Repeat Display Message"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Rewind speeds"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Rewrap teletext subtitles"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Satellite dish setup"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Scrolling Speed"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Set fps for external subtitles"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Set the scrolling speed of text on the front display."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Set the type of the progress indication in the channel selection screen."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Setup mode"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Show EIT now/next in infobar"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Show SNR percentage instead of dB value"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Show VCR scart on main menu"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Show animation while busy"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Show background in radio mode"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Show busy indicator when the system is busy."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Show channel numbers in channel selection"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Show crypto info in infobar"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Show event-progress in channel selection"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Show infobar on channel change"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Show infobar on event change"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Show infobar on skip forward/backward"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Show message when recording starts"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Show movie lengths in movielist"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Show picons in channel list"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Show positioner movement"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Show screensaver"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Show second infobar"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Show service type icons"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Show status icons in movielist"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Show warning when timeshift is stopped"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Slow motion speeds"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Sound"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Sound carrier"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Standby"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Subtitle alignment"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Subtitle border width"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Subtitle delay when timing is bad"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Subtitle delay when timing lacks"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Subtitle font size"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Subtitle language selection 1"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Subtitle language selection 2"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Subtitle language selection 3"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Subtitle language selection 4"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Subtitle position"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Subtitle settings"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Teletext subtitle color"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Test mode"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "This option allows you to Power Off the display."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Timezone"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Tuner slot"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Use DHCP"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Use EIT EPG information when it is available."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Use FreeSat EPG information when it is available."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Use MHW EPG information when it is available."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Use Netmed EPG information when it is available."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Use ViaSat EPG information when it is available."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Use original DVB subtitle position"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Use original teletext position"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Use power measurement"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Use trash can in movielist"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "User interface"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Usually when the subtitle language is the same as the audio language, the subtitles will not be used. Enable this option to allow these subtitles to be used."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled the PiP can be closed by the exit button."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, AIT data will be included in http streams. This allows a client receiver to use HbbTV."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, ECM data will be included in http streams. This allows a client receiver to do the descrambling."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, EIT data will be included in http streams. This allows a client receiver to show EPG."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, a popup message will be shown when a movie has finished and the next one will start."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, a popup message will be shown when a recording starts."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, a radio background image will be visible while listening to a radio channel."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, a recording is allowed to interrupt live tv, when there are no free tuners."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, a warning will be displayed and the user will get an option to stop or to continue the timeshift."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, channel numbering will start at '1' for each bouquet."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, continue to the next bouquet when the last channel of the current bouquet is reached while changing channels."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, deleted recordings are moved to the trash can, instead of being deleted immediately."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, display the EIT now/next eventdata in infobar. When disabled, display now/next eventdata from the EPG cache instead."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, encryption info will be shown in the infobar (when supported by the skin)."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, error messages related to the Common Interface module will not be shown."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, error messages related to zapping will not be shown."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, external subtitles will be always turned on for playback movie."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, graphical DVB subtitles are preferred over teletext subtitles, when both types are available."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, graphical DVB subtitles will be centered horizontally."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, graphical DVB subtitles will be displayed at their original position."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, graphical DVB subtitles will be displayed in yellow, instead of the original color."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, http streams are descrambled on the server side. The (remote) client receiver does not have to do descrambling."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, it is possible to leave the movieplayer with exit."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, measure power consumption to detect when the rotor stops turning (when supported by the tuner)."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, number markers will be hiden."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, services may be grouped in multiple bouquets."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, show channel numbers in the channel selection screen."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, subtitles for the hearing impaired can be used."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, subtitles for the hearing impaired will be preferred over normal subtitles, when both types are available."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, teletext pages will be cached, allowing faster access."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, teletext subtitles will be displayed at their original position."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, the VCR scart option will be shown on the main menu"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, the channel selection list will be hidden while listening to a radio channel"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, the infobar will be displayed when a new event starts."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, the infobar will be displayed when changing channels."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, the infobar will be displayed when skipping forwards/backwards during media playback."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, the lenght of each recording will be shown in the movielist (this might cause some additional loading time)."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, the original line breaks will be removed from the teletext subtitles."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, the receiver will automatically use the audio track which you selected before."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, the receiver will automatically use the subtitles which you selected before."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, the receiver will no longer monitor the tuned transponder for possible changes. Do not use this option unless you know what you are doing."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, the receiver will select an AC3 track (when available)."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, timeshift starts automatically in background after specified time."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When enabled, use DHCP for the IP configuration."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When nonzero, a recording will start earlier than the starting time indicated by the EPG."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "When nonzero, a recording will stop later than the ending time indicated by the EPG."
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Yellow DVB subtitles"
+msgstr ""
+
+#: ../data/setup.xml
+msgid "Zap mode"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "0"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "1"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "2"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "3"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "4"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "5"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "6"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "7"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "8"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "9"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "About"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Audio"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Automatic scan"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "BER:"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Cancel"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Channel"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Channel selection"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Channellist menu"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Command execution..."
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Common Interface"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Continue in background"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "DVD file browser"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Date/time input"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Downloadable plugins"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "EPG selection"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Electronic Program Guide"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Event view"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Event view menu"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Fast Scan"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Frequency:"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Harddisk"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Index"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Input"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Installing software..."
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Job overview"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Language selection"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Lock:"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "MORE"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Main menu"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Manual scan"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Media player"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Menu"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Message"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Message..."
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Movielist menu"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Mute"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "NEXT"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "NOW"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Nameserver setup"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Network configuration..."
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Network setup"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Network test..."
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Now playing"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "OK"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "OSD settings"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "PIN code needed"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Parental control services editor"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "PiP setup"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Plugin browser"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Polarisation:"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Positioner Setup"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Radio"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Reception settings"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "SNR:"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Satfinder"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Scan"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Seek"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Select HDD"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Select a bouquet"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Select a movie"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Select a network adapter"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Select a skin"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Select a tuner"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Service info"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Service scan"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Setup"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Standby"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Subservices"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Subtitle selection"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Symbol rate:"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Timer edit"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Timer editor"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Timer entry"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Timer log"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Timer sanity error"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Timer selection"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Translation"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Translation:"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "UnhandledKey"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "VideoMode"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Virtual keyboard"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Volume"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "Welcome..."
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "config menu"
+msgstr ""
+
+#: ../data/skin_default.xml
+msgid "help..."
+msgstr ""
+
+#: ../data/skin_display96.xml
+msgid "Rec"
+msgstr ""
+
+#: ../data/skin_display96.xml
+msgid "Recording"
+msgstr ""
+
+#: ../data/skin_display_default.xml
+msgid "Rec"
+msgstr ""
+
+#: ../data/skin_display_default.xml
+msgid "Recording"
+msgstr ""
+
+#: ../data/skin_display_vuduo2.xml
+msgid "Rec"
+msgstr ""
+
+#: ../data/skin_display_vuduo2.xml
+msgid "Recording"
+msgstr ""
+
+#: ../data/skin.xml
+msgid "A"
+msgstr ""
+
+#: ../data/skin.xml
+msgid "Audio"
+msgstr ""
+
+#: ../data/skin.xml
+msgid "B"
+msgstr ""
+
+#: ../data/skin.xml
+msgid "BER"
+msgstr ""
+
+#: ../data/skin.xml
+msgid "C"
+msgstr ""
+
+#: ../data/skin.xml
+msgid "D"
+msgstr ""
+
+#: ../data/skin.xml
+msgid "Extensions"
+msgstr ""
+
+#: ../data/skin.xml
+msgid "Info bar"
+msgstr ""
+
+#: ../data/skin.xml
+msgid "Main menu"
+msgstr ""
+
+#: ../data/skin.xml
+msgid "Record"
+msgstr ""
+
+#: ../data/skin.xml
+msgid "SNR"
+msgstr ""
+
+#: ../data/skin.xml
+msgid "Subservices"
+msgstr ""
+
+#: ../data/skin.xml
+msgid "Timeshift"
+msgstr ""
+
+#: ../data/startwizard.xml
+msgid "After the start wizard is completed, you need to protect single services. Refer to your STB_BOX's manual on how to do that."
+msgstr ""
+
+#: ../data/startwizard.xml
+msgid "Check the internet connection"
+msgstr ""
+
+#: ../data/startwizard.xml
+msgid "Check the internet connection again"
+msgstr ""
+
+#: ../data/startwizard.xml
+msgid "Checking the internet connection"
+msgstr ""
+
+#: ../data/startwizard.xml
+msgid "Do you want to do a service scan?"
+msgstr ""
+
+#: ../data/startwizard.xml
+msgid "Do you want to do another manual service scan?"
+msgstr ""
+
+#: ../data/startwizard.xml
+msgid "Do you want to enable the parental control feature on your STB_BOX?"
+msgstr ""
+
+#: ../data/startwizard.xml
+msgid "Do you want to install a channel list?"
+msgstr ""
+
+#: ../data/startwizard.xml
+msgid "Exit the wizard"
+msgstr ""
+
+#: ../data/startwizard.xml
+msgid "No"
+msgstr ""
+
+#: ../data/startwizard.xml
+msgid "No, scan later manually"
+msgstr ""
+
+#: ../data/startwizard.xml
+msgid "Please be aware, that anyone can disable the parental control, if you have not set a PIN."
+msgstr ""
+
+#: ../data/startwizard.xml
+msgid "Please connect your receiver to the internet"
+msgstr ""
+
+#: ../data/startwizard.xml
+msgid "Please set up tuner A"
+msgstr ""
+
+#: ../data/startwizard.xml
+msgid "Please set up tuner B"
+msgstr ""
+
+#: ../data/startwizard.xml
+msgid "Please set up tuner C"
+msgstr ""
+
+#: ../data/startwizard.xml
+msgid "Please set up tuner D"
+msgstr ""
+
+#: ../data/startwizard.xml
+msgid "Skip internet connection check (disables automatic package installation)"
+msgstr ""
+
+#: ../data/startwizard.xml
+msgid "Thank you for using the wizard. Your STB_BOX is now ready to use.\nPlease press OK to start using your STB_BOX."
+msgstr ""
+
+#: ../data/startwizard.xml
+msgid "Use the up/down keys on your remote control to select an option. After that, press OK."
+msgstr ""
+
+#: ../data/startwizard.xml
+msgid "Use the wizard to set up basic features"
+msgstr ""
+
+#: ../data/startwizard.xml
+msgid "Welcome.\n\nThis start wizard will guide you through the basic setup of your STB_BOX.\nPress the OK button on your remote control to move to the next step."
+msgstr ""
+
+#: ../data/startwizard.xml
+msgid "What do you want to scan?"
+msgstr ""
+
+#: ../data/startwizard.xml
+msgid "Yes"
+msgstr ""
+
+#: ../data/startwizard.xml
+msgid "Yes, do a manual scan now"
+msgstr ""
+
+#: ../data/startwizard.xml
+msgid "Yes, do an automatic scan now"
+msgstr ""
+
+#: ../data/startwizard.xml
+msgid "Yes, do another manual scan now"
+msgstr ""
+
+#: ../data/startwizard.xml
+msgid "You need to set a PIN code and hide it from your children.\n\nDo you want to set the pin now?"
+msgstr ""
+
+#: ../data/startwizard.xml
+msgid "Your receiver does not have an internet connection"
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/NetworkWizard/networkwizard.xml
+msgid "Configure interface"
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/NetworkWizard/networkwizard.xml
+msgid "Configure nameservers"
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/NetworkWizard/networkwizard.xml
+msgid "Configure your network again"
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/NetworkWizard/networkwizard.xml
+msgid "Exit network wizard"
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/NetworkWizard/networkwizard.xml
+msgid "List available networks"
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/NetworkWizard/networkwizard.xml
+msgid "Manual configuration"
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/NetworkWizard/networkwizard.xml
+msgid "Network wizard"
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/NetworkWizard/networkwizard.xml
+msgid "Please configure or verify your Nameservers by filling out the required values.\nWhen you are ready press OK to continue."
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/NetworkWizard/networkwizard.xml
+msgid "Please configure your internet connection by filling out the required values.\nWhen you are ready press OK to continue."
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/NetworkWizard/networkwizard.xml
+msgid "Please follow the instructions on the TV"
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/NetworkWizard/networkwizard.xml
+msgid "Please select the network interface that you want to use for your internet connection.\n\nPlease press OK to continue."
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/NetworkWizard/networkwizard.xml
+msgid "Please select the wireless network that you want to connect to.\n\nPlease press OK to continue."
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/NetworkWizard/networkwizard.xml
+msgid "Select interface"
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/NetworkWizard/networkwizard.xml
+msgid "Select wireless network"
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/NetworkWizard/networkwizard.xml
+msgid "Thank you for using the wizard.\nPlease press OK to continue."
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/NetworkWizard/networkwizard.xml
+msgid "The wireless LAN plugin is not installed!\nPlease install it and choose what you want to do next."
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/NetworkWizard/networkwizard.xml
+msgid "Welcome.\n\nIf you want to connect your receiver to the Internet, this wizard will guide you through the basic network setup of your receiver.\n\nPress OK to start configuring your network"
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/NetworkWizard/networkwizard.xml
+msgid "Wireless network connection setup"
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/NetworkWizard/networkwizard.xml
+msgid "Wireless network connection setup."
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/NetworkWizard/networkwizard.xml
+msgid "Your internet connection is not working!\nPlease choose what you want to do next."
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/NetworkWizard/networkwizard.xml
+msgid "Your receiver is now ready to use.\n\nYour internet connection is working now.\n\nPlease press OK to continue."
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/NetworkWizard/networkwizard.xml
+msgid "Your wireless LAN internet connection could not be started!\nHave you attached your USB WLAN Stick?\n\nPlease choose what you want to do next."
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+msgid "Do you want to restore your settings?"
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+msgid "Exit the wizard"
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+msgid "Install a new image with a USB stick"
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+msgid "Install a new image with your web browser"
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+msgid "No backup needed"
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+msgid "No, do nothing."
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+msgid "No, just start my receiver"
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+msgid "OK, guide me through the upgrade process"
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+msgid "The backup failed. Please choose a different backup location."
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+msgid "The wizard can backup your current settings. Do you want to do a backup now?"
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+msgid "The wizard is finished now."
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+msgid "Welcome to the image upgrade wizard. The wizard will assist you in upgrading the firmware of your receiver by providing a backup facility for your current settings and a short explanation of how to upgrade your firmware."
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+msgid "Where do you want to backup your settings?"
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+msgid "Yes, backup my settings!"
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+msgid "Yes, perform a shutdown now."
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+msgid "Yes, restore the settings now"
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+msgid "You have chosen to backup your settings. Please press OK to start the backup now."
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+msgid "You have chosen to restore your settings. Enigma2 will restart after restore. Please press OK to start the restore now."
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+msgid "You need a PC connected to your receiver. If you need further instructions, please visit the website http://www.dm7025.de.\nYour receiver will now be halted. After you have performed the update instructions from the website, your new firmware will ask you to restore your settings."
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+msgid "Your backup succeeded. We will now continue to explain the further upgrade process."
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/SoftwareManager/imagewizard.xml
+msgid "Your receiver is shutting down. Please stand by..."
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/Videomode/videowizard.xml
+msgid "Refresh rate selection."
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/Videomode/videowizard.xml
+msgid "Select refresh rate"
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/Videomode/videowizard.xml
+msgid "Select video input with up/down buttons"
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/Videomode/videowizard.xml
+msgid "Select video mode"
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/Videomode/videowizard.xml
+msgid "Video input selection\n\nPlease press OK if you can see this page on your TV (or select a different input port).\n\nThe next input port will be automatically probed in 20 seconds."
+msgstr ""
+
+#: ../lib/python/Plugins/SystemPlugins/Videomode/videowizard.xml
+msgid "Video mode selection."
+msgstr ""
